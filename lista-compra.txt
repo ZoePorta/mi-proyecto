@@ -2,3 +2,4 @@ tomate
 lechuga
 cebolla
 atun
+huevos
