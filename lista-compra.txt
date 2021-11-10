@@ -3,4 +3,3 @@ lechuga
 cebolla
 atun
 huevos
-zanahoria
